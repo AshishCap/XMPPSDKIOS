@@ -1,0 +1,6 @@
+framework module Pods_XMPPSDKTestProject {
+  umbrella header "Pods-XMPPSDKTestProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

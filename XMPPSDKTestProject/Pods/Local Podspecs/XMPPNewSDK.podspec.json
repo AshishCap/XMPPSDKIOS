@@ -1,0 +1,26 @@
+{
+  "name": "XMPPNewSDK",
+  "version": "1.0.1",
+  "summary": "New XMPPNewSDK for XMPP framework.",
+  "description": "New XMPPNewSDK for XMPP framework with custom methods",
+  "homepage": "https://github.com/AshishCap/XMPPSDK",
+  "license": "MIT",
+  "authors": {
+    "Ashish": "ashish.rana@capanicus.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/AshishCap/XMPPSDK.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "XMPPNewSDK/**/*.{h,m,swift}",
+  "swift_versions": "4.2",
+  "dependencies": {
+    "XMPPFramework": [
+      "~> 4.0.0"
+    ]
+  },
+  "swift_version": "4.2"
+}
